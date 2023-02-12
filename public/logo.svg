@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="19.663" height="19.648">
+    <defs>
+        <style>
+  .cls-1 { fill: #e01e5a; }
+  .cls-2 { fill: #36c5f0; }
+  .cls-3 { fill: #2eb67d; }
+  .cls-4 { fill: #ecb22e; }
+        </style>
+    </defs>
+    <g id="Slack_RGB" transform="translate(-47.44 39.527)">
+        <g id="Group_21841" data-name="Group 21841" transform="translate(-15.26 -102.127)">
+            <g id="Group_21837" data-name="Group 21837" transform="translate(62.716 72.956)">
+                <path id="Path_18305" data-name="Path 18305" class="cls-1" d="M66.93 130.865a2.065 2.065 0 1 1-2.065-2.065h2.065z" transform="translate(-62.8 -128.8)"/>
+                <path id="Path_18306" data-name="Path 18306" class="cls-1" d="M95.8 130.865a2.065 2.065 0 1 1 4.13 0v5.162a2.065 2.065 0 1 1-4.13 0z" transform="translate(-90.638 -128.8)"/>
+            </g>
+            <g id="Group_21838" data-name="Group 21838" transform="translate(62.7 62.6)">
+                <path id="Path_18307" data-name="Path 18307" class="cls-2" d="M97.865 66.73a2.065 2.065 0 1 1 2.065-2.065v2.065z" transform="translate(-90.622 -62.6)"/>
+                <path id="Path_18308" data-name="Path 18308" class="cls-2" d="M69.943 95.7a2.065 2.065 0 0 1 0 4.13h-5.178a2.065 2.065 0 0 1 0-4.13z" transform="translate(-62.7 -90.522)"/>
+            </g>
+            <g id="Group_21839" data-name="Group 21839" transform="translate(73.056 62.6)">
+                <path id="Path_18309" data-name="Path 18309" class="cls-3" d="M161.9 97.765a2.065 2.065 0 1 1 2.065 2.065H161.9z" transform="translate(-156.738 -90.522)"/>
+                <path id="Path_18310" data-name="Path 18310" class="cls-3" d="M133.03 69.843a2.065 2.065 0 1 1-4.13 0v-5.178a2.065 2.065 0 1 1 4.13 0z" transform="translate(-128.9 -62.6)"/>
+            </g>
+            <g id="Group_21840" data-name="Group 21840" transform="translate(73.056 72.956)">
+                <path id="Path_18311" data-name="Path 18311" class="cls-4" d="M130.965 161.8a2.065 2.065 0 1 1-2.065 2.065V161.8z" transform="translate(-128.9 -156.638)"/>
+                <path id="Path_18312" data-name="Path 18312" class="cls-4" d="M130.965 132.93a2.065 2.065 0 0 1 0-4.13h5.178a2.065 2.065 0 0 1 0 4.13z" transform="translate(-128.9 -128.8)"/>
+            </g>
+        </g>
+    </g>
+</svg>
