@@ -15,10 +15,10 @@ const Portfolio = () => {
       <h2 className="container portfolio_container">
         <article className="article_item">
           <div className="portfolio_item-image"><img src={IMG1} alt="image1" /></div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Portfolio Website</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/portfolio-website"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -27,7 +27,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://akshaysinghportfolio.netlify.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -39,10 +39,10 @@ const Portfolio = () => {
         </article>
         <article className="article_item">
           <div className="portfolio_item-image"><img src={IMG2} alt="image1" /></div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Movie Review</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/movie-review-app-using-react"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -51,7 +51,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/movie-review-app-using-react"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -63,10 +63,10 @@ const Portfolio = () => {
         </article>
         <article className="article_item">
           <div className="portfolio_item-image"><img src={IMG3} alt="image1" /></div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Movie Review Api</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/movie-review-app-using-spring-boot"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -75,7 +75,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/movie-review-app-using-spring-boot"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -87,10 +87,10 @@ const Portfolio = () => {
         </article>
         <article className="article_item">
           <div className="portfolio_item-image"><img src={IMG4} alt="image1" /></div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Firebase-Github</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/firebase-github-react"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -99,7 +99,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/firebase-github-react"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -111,10 +111,10 @@ const Portfolio = () => {
         </article>
         <article className="article_item">
           <div className="portfolio_item-image"><img src={IMG5} alt="image1" /></div>
-          <h3>This is a portfolio item title</h3>
+          <h3>TODO LIST</h3>
           <div className="portfolio_item-cta">
             <a
-              href="https://github.com"
+              href="https://github.com/Singh-akshay03/TO-DO-LIST"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"
@@ -123,7 +123,7 @@ const Portfolio = () => {
               Github
             </a>
             <a
-              href="https://github.com"
+              href="https://regal-paletas-c4ce40.netlify.app/"
               className="btn btn-primary"
               target="_blank"
               rel="noreferrer"

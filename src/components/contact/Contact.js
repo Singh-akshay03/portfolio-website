@@ -1,4 +1,5 @@
-import React from "react";
+// import React,{useRef} from "react";
+//service-id:service_18s9w2q
 import { MdOutlineEmail } from "react-icons/md";
 import { RiMessengerLine } from "react-icons/ri";
 import { BsWhatsapp } from "react-icons/bs";
@@ -39,7 +40,7 @@ const Contact = () => {
               style={{ fontSize: "1.5rem", marginBottom: "0.5rem" }}
             />
             <h4>Email</h4>
-            <h5>akshay03.singh03@gmail.com</h5>
+            <h5 style={{wordBreak:"break-word"}}>akshay03.singh03@gmail.com</h5>
             <a
               href="mailto:akshay03.singh03@gmail.com"
               style={{
@@ -63,7 +64,7 @@ const Contact = () => {
             <RiMessengerLine
               style={{ fontSize: "1.5rem", marginBottom: "0.5rem" }}
             />
-            <h4>Messenger</h4>
+            <h4 style={{wordBreak:"break-word"}}>Messenger</h4>
             <h5>Akshay Singh</h5>
             <a
               href="https://m.me/profile.php?id=100041956102699" target="_blank"
@@ -89,8 +90,8 @@ const Contact = () => {
             <BsWhatsapp
               style={{ fontSize: "1.5rem", marginBottom: "0.5rem" }}
             />
-            <h4>WhatsApp</h4>
-            <h5>+918882525312</h5>
+            <h4 style={{wordBreak:"break-word"}}>WhatsApp</h4>
+            <h5 style={{wordBreak:"break-word"}}>+918882525312</h5>
             <a href="https://wa.me/918882525312" target="_blank"
             style={{
               marginTop: "0.7rem",

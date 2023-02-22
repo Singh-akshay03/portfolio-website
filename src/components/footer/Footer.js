@@ -5,8 +5,8 @@ import  './Footer.css';
 const Footer = () => {
   return (
     <footer>
-  
-</footer>
+        <h1>footer</h1>
+    </footer>
 
   )
 }
